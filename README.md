@@ -1,2 +1,2 @@
-# SEM-GAN-WebAPP
-Web Application Implementation of the SEMGAN  Paper
+# Titanic_Survial_Prediction_Web
+ Django Project
