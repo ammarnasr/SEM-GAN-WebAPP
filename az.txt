@@ -1,5 +1,0 @@
- git push heroku main
-git commit -m 'numpy'
-git add .
-git status
-heroku login

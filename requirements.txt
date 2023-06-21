@@ -1,7 +1,0 @@
---find-links https://download.pytorch.org/whl/cpu/torch_stable.html
-torch==1.5.0+cpu
-Django==3.2.8
-django_heroku==0.3.1
-nltk==3.6.5
-numpy==1.19.5
-Pillow==8.4.0
